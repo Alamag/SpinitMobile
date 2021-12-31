@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">Spinit Mobile</string>
+    <string name="tv_registration">Регистрация</string>
+    <string name="et_hint_login">Никнейм/Логин</string>
+    <string name="et_hint_name">Имя</string>
+    <string name="et_hint_surname">Фамилия</string>
+    <string name="et_hint_email">Эл. почта</string>
+    <string name="et_hint_password">Пароль</string>
+    <string name="et_hint_password_rep">Повторите пароль</string>
+    <string name="b_sign_up">Зарегистрироваться</string>
+    <string name="b_sign_in">Войти</string>
+    <string name="tv_has_acc">Уже есть аккаунт?</string>
+    <string name="iv_logo">SpinIt Logo</string>
 </resources>
